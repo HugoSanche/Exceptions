@@ -13,6 +13,10 @@ public class Checked_UnChecked_Exceptions {
 
     //this generates Checked exceptions.-
 
+
+    ///
+
+
     }
     public static void printLength(String string){
         int myString=string.length();
@@ -28,4 +32,6 @@ public class Checked_UnChecked_Exceptions {
             System.out.println("File not found");
         }
     }
+
+
 }
