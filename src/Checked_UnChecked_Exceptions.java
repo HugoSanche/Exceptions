@@ -2,9 +2,9 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 
 public class Checked_UnChecked_Exceptions {
-    //Checked Exceptions.- Exceptions are IOExceptions,FileNotFoundExceptions, ArithmeticException, ArrayStoreException
+    //Checked Exceptions.- "Compile time" Exceptions are IOExceptions,FileNotFoundExceptions, SQLException
 
-    //Unchecked Exceptions are.- Run time exceptions.- like NullPointerExceptions, IndexOutOfBoundsExceptions,ArithmeticException
+    //Unchecked Exceptions are.- "Run time exceptions".- like NullPointerExceptions, numberfomatexception,IllegalArgumentException, IndexOutOfBoundsExceptions,ArithmeticException
 
     public static void main(String[] args) {
     //this generates Unchecked exceptions.- null pointer exceptions

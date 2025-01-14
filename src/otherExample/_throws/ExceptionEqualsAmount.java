@@ -1,2 +1,4 @@
-package otherExample._throws;public class ExceptionEqualsAmount {
+package otherExample._throws;
+
+public class ExceptionEqualsAmount extends Exception{
 }

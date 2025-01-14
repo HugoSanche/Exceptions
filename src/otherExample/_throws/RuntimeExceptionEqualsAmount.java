@@ -1,2 +1,4 @@
-package otherExample._throws;public class RuntimeExceptionEqualsAmount {
+package otherExample._throws;
+
+public class RuntimeExceptionEqualsAmount extends RuntimeException{
 }
